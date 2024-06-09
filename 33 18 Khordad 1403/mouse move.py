@@ -1,7 +1,6 @@
-import win32, win32api
+import win32api
 import random
 import time
-
 
 # for i in range(300):
 #     x = random.randint(0, 1920)
