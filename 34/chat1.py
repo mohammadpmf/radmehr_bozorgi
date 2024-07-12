@@ -12,7 +12,7 @@ from datetime import datetime
 # from . import my_functions
 
 
-IP = '127.0.0.1'
+IP = '192.168.81.249'
 PORT = 55555
 print ("Starting server: ")
 s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
