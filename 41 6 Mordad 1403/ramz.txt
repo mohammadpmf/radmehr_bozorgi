@@ -1,0 +1,2 @@
+سلام این یک فایل رمز شده است.
+This is an encrypted file.

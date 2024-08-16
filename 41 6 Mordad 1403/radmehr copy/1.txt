@@ -1,0 +1,3 @@
+salam file e 1
+file e 2
+file e 3
