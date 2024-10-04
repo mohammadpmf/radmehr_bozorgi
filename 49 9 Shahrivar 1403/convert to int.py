@@ -1,3 +1,4 @@
+# https://stackoverflow.com/questions/9210525/how-do-i-convert-hex-to-decimal-in-python
 s = "6a48f82d8e828ce82b82"
 i = int(s, 16)
 print(i)
